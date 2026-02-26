@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aik1a
-- 23 years  📎
-- 🌱 I’m currently learning ... Python from scratch in my university plan
+- 24 years  📎
+- 🌱 I’m currently learning ... Python and Java from scratch in my university plan
 - 😄 Pronouns: ... They/Them/she
 
 <!---
