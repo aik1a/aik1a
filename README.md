@@ -9,7 +9,10 @@ Construyo lo que quiero ver en el mundo — desde adentro del problema.
 
 ### 🕐 Actualmente
 
-- Desarrollando (Jul-Ago): Full rebuild/Revamp Landing Page Aspaut.cl — RainbowPal (LGBT Info Aid Chat) — Portafolio v3 
+- ⚡️Desarrollando (Jul-Ago): 
+                    — Full rebuild/Revamp Landing Page + UX Research para Aspaut.cl (Fundacion Amigos y Familiares de los autistas Chile — Non profit prototype) 📚
+                    — RainbowPal 🏳️‍🌈(LGBT Info Aid Chat) 
+                    — Portafolio v3 📂
 - 🎓 Estudiando Ing. en Ejecución Informática en UST Santiago
 - ☕ `brew(café)` en optimización constante, iterando hasta el café perfecto — porque el código siempre mejora con él
 
