@@ -8,12 +8,22 @@ Construyo lo que quiero ver en el mundo — desde adentro del problema.
 ---
 
 ### 🕐 Actualmente
+                    collabs:    Arriendavip.cl
+                    —Kai Tech
 
-### ⚡️Desarrollando (Jul-Ago): 
+### ⚡️Desarrollando 
+   
+                    —Ux Ui Research SkillPack 
+                    —Sagaflow revamp + Sagagotchi + SagaOP
+                    —All-in-One Hub (Calendar + Notion + Agents)
+
+### 💤 Sidequests
 
                     —Full rebuild/Revamp Landing Page + UX Research para Aspaut.cl (Fundacion Amigos y Familiares de los autistas Chile — Non profit prototype) 📚
                     —RainbowPal 🏳️‍🌈(LGBT Info Aid Chat) 
                     —Portafolio v3 📂
+                    -Lleken 
+
 
 - 🎓 Estudiando Ing. en Ejecución Informática en UST Santiago
 - ☕ `brew(café)` en optimización constante, iterando hasta el café perfecto — porque el código siempre mejora con él
@@ -47,7 +57,7 @@ un reporte listo para decidir — sin coordinar nada manualmente.
 ---
 
 ### 🐱 Fuera del código
-Leo, hago voluntariado, practico esgrima con sable de luz y tengo
+Dirigente Scout, Leo, hago voluntariado, practico esgrima con sable de luz y tengo
 gatos que me supervisan mientras trabajo. Anakin Skywalker y Wolverine
 viven rent free en mi cabeza — con una colección de intereses esotéricos
 que no caben en un README.
